@@ -1,0 +1,3 @@
+obj_streamgraph-generator
+
+Port of Lee Byron's and Martin Wattenberg's Processing streamgraph code (available here: https://github.com/leebyron/streamgraph_generator) to objective-c and iOS.
